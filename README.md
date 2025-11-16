@@ -48,11 +48,6 @@ pnpm build
 
 ---
 
-## Contributing
-Contributions are welcome! Please open an issue or pull request to discuss changes. Network code will be added once protos are wired in.
-
----
-
 ## License
 
 Apache 2.0 — see `LICENSE`.
